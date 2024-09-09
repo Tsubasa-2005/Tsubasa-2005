@@ -1,4 +1,12 @@
-## Hi there 👋
+<p align="left">
+  <a href="https://github.com/Tsubasa-2005">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Tsubasa-2005" />
+  </a>
+  <a href="https://github.com/Tsubasa-2005">
+    <img height="20" src="https://img.shields.io/github/followers/Tsubasa-2005?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 
 <!--
 **Tsubasa-2005/Tsubasa-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
